@@ -8,5 +8,5 @@
 ###SBATCH --partition=gpu
 #SBATCH --gres=gpu:1
 
-python seq2seq_translation_tutorial.py
+python seq2seq_vanilla.py
  
